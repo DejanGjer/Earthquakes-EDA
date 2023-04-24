@@ -1,4 +1,4 @@
-name: ml
+name: ds
 channels:
   - pytorch
   - conda-forge
